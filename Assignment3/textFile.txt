@@ -1,0 +1,5 @@
+Here's a test file
+This is obviously a test file
+Because it contains uninteresting stuff
+If you don't trust these statements, you should restart windows
+You are running a test program
