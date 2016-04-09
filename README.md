@@ -4,7 +4,7 @@ Course Assignments (Introduction to Programming - C/C++)
 ## Assignment 1
 Implemented the Nokia Snakes game in C/C++ using the nucrses library.
 
-**Usage:**  
+**Usage**
 ```
 > g++ -o snake snake.cpp -lcurses
 > ./snake
@@ -15,7 +15,7 @@ Implemented a Mathematics library, including functions such as Combinatorics, Ve
 Matrix Arithmetic. All functions in Assignment2.h have been implemented (except Task 8 - matrixDet() and matrixInv()). Testing 
 has been done in main.cpp.
 
-**Usage:**  
+**Usage**  
 add all files to your working directory and the following line near the top of file that requires library 
 ```
 #include "Assignment2.h
@@ -24,7 +24,7 @@ add all files to your working directory and the following line near the top of f
 ## Assignment 3
 Implemented a C-String library, including comparison, copy, find substring, concatenation, tokenizer, string sorting.
 
-**Usage:**  
+**Usage**  
 add all files to your working directory and the following line near the top of file that requires library 
 ```
 #include "Assignment3.h
@@ -35,7 +35,7 @@ Composed of 2 tasks.
 Task 1) Recover lost files from a file that was accidentally formatted.  
 Task 2) Recover a file by smartly reading from 8 bitmap files.
 
-**Usage:**  
+**Usage**  
 Task 1
 ```
 > g++ -o Task1 Task1.cpp
@@ -54,7 +54,7 @@ An assignment that was more of a programming competition.
 I implemented an event schedular program where a user can add events to his calendar. Error checking and 
 validations have been added so you do not have simultaneous events, invalid input, etc.
 
-**Usage:**  
+**Usage**  
 add all the following files to your folder and then run the following commands  
 ```
 > make -f Assignment6.make
